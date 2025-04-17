@@ -1,1 +1,1 @@
-基于cppQtCreate的串口助手
+基于QtCreator的串口助手
